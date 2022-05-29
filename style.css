@@ -1,14 +1,14 @@
 ul {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
 li, h3 {
-    list-style:none;
+    list-style: none;
 }
 
 input,.button{
-    outline:none;
+    outline: none;
 }
 
 /* Basic Style */
@@ -157,14 +157,14 @@ input,.button{
 
 /* Edit Task */
 .tasks .items-list .task-text {
-    display:none
+    display: none
 }
 
 .tasks .items-list.edit-mode .tasks-text {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .tasks .items-list.edit-mode .label {
-    display:none;
+    display: none;
 }
