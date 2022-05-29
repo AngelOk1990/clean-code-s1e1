@@ -153,13 +153,13 @@ button{
 }
 
 /* Completed */
-#completed-tasks .label {
+.completed-tasks .label {
     text-decoration: line-through;
     color: #888;
 }
 
 /* Edit Task */
-.tasks .items-list .task-text {
+.tasks .items-list .task-text.mode {
     display: none
 }
 
